@@ -16,8 +16,8 @@ This tool was developed and tested using Upstash's documentation as an example u
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Abdusshh/process-docs.git
-cd process-docs
+git clone https://github.com/Abdusshh/mintlify-docs-cleaner.git
+cd mintlify-docs-cleaner
 ```
 
 2. Create a virtual environment and activate it:
@@ -48,4 +48,4 @@ The script will process all MDX files in the specified directory, removing Mintl
 
 ## License
 
-[Your chosen license]
+MIT License
