@@ -60,7 +60,7 @@ class DocsMigrator:
         # First remove nested components
         components = ['Card', 'CardGroup', 'Tabs', 'TabItem', 'ResponseField', 'ParamField', 
                      'Expandable', 'RequestExample', 'ResponseExample', 'CodeGroup', 'Tip', 'Info', 'Warning', 
-                     'Note', 'Steps', 'Step', 'Frame', 'Check', 'CodeBlock', 'Col', 
+                     'Note', 'Steps', 'Step', 'Frame', 'Check', 'CodeBlock', 'Col', 'TagFilters'
                      'Properties', 'Property', 'Accordion', 'AccordionGroup', 'Update', 'Snippet']
         
         # Remove all Mintlify comment blocks
